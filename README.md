@@ -1,4 +1,4 @@
-# Life is Hard Trissie
+# Life is Hard Hack Trissie
 
 
 Jogo de escolhas baseado em python feito apenas para diversão! Conta a história de duas meninas em que você pode decidir controlar as decisões que elas vão tomar, será que você consegue chegar ao final viva?
