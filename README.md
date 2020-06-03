@@ -1,4 +1,4 @@
-<img src="/home/alef/Pictures/logo.png">
+<img src="https://cdn.dribbble.com/users/1736305/screenshots/6466761/d_2x.png">
 
 <h1>Life Is Hard Trissie</h1>
 <blockquote>Choice's Game</blockquote>
