@@ -112,6 +112,16 @@ elif idade >= 15:
                                                                         
                                                                         elif esc16_1 == '2':
                                                                             print('\nVocê continua a olhar apreensivamente para os céus e então pergunta a mulher ao seu lado o que você deveria fazer, "fique AQUI" disse ela num tom sério também olhando para os céus e de repente um clarão não tão longe quase as cegou. Um bombardeio atingiu justamente o local em que Eros estava, você se levanta para correr em busca dele, mas a mulher ao seu lado te puxa e aponta para o céu, diversos aviões estão lançando mísseis justamente nos aviões que bombardearam seu pobre e lindo Eros, destroços começam a cair do céu, e caem justamente em um monte de arvores, derrubando-as. Seu coração não tem mais esperança...\n\nOito anos depois você está de volta ao Brasil, conseguiu terminar seus estudos e publicou um livro de muito sucesso sobre a guerra em que sobreviveu, sua vida foi pacata e feliz desde então...\n')
+                                                    
+                                                    elif esc_11 == '2':
+                                                        print('\nVocê começa a chorar e diz que tudo bem, que ficaria esperando por ele e pede que ele volte o quanto antes. Após a saída de Eros, ainda atônita devido a explosão, você levanta a cabeça e tenta identificar o lugar onde ele te deixou. Era um lugar amplo e bem iluminado, uma praça onde diversas pessoas continuavam chegando e outras corriam para elas com maletas e luvas nas mãos.\nEnquanto tentava esquadrinhar o local, um rapaz ruivo se aproximou de você com a mesma aparência daqueles que ajudavam quem ali chegava e perguntou se ele poderia te examinar, já tirando da maleta um estetoscópio.\n')
+                                                        esc_12 = input("O que você faz?\n1)Permite que ele te examine\n2)Diz que não precisa e que você está se sentindo bem\nResposta: ")
+
+                                                        if esc_12 == '1':
+                                                            print('Você diz que pode sim, e ele começa a te examinar')
+
+                                                        
+                                                        elif esc_12 =='2':
                 elif esc2 == '2':
                     print('')
 
