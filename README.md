@@ -28,7 +28,8 @@ To utilize this game, it's not necessary instalation, just click in the link bel
 <h5>
 <ol>
     <li>Faça o fork do projeto: <a href="https://github.com/AlefAdonis/playgame.git">https://github.com/AlefAdonis/playgame.git</a></li>
-    <li>Crie uma branch para sua modificação (git checkout -b problema/.</li>
+    <li>Crie uma branch para sua modificação (git checkout -b branch-nome/.</li>
+    <li>Faça as mudanças e após isso dê (git add .)</li>
     <li>Faça o commit (git commit -m 'Atualização desse problema').</li>
     <li>Push (git push origin problema).</li>
     <li>Crie um novo <em>Pull Request</em>.</li>
