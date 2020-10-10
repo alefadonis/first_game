@@ -1,5 +1,5 @@
 def trisse_choices():
-    print('\nSeu nome é Trinity, você tem 26 anos e entrou agora no curso de Sociologia na Universidade De Ética E Política em Atenas. Você chegou da sua cidade natal - Campina Grande - a pouco tempo e ainda não se acostumou com o clima Europeu. Seu dormitório é maravilhoso e tudo que você sempre sonhou.\nNo seu primeiro dia de aula você se arruma toda e corre para não se atrasar, mas há um problema, você não tem a menor ideia para que direção fica sua sala, você para em frente aos portões e não sabe aonde ir!!\n')
+    print('\nSeu nome eh Trinity, você tem 26 anos e entrou agora no curso de Sociologia na Universidade De Ética E Política em Atenas. Você chegou da sua cidade natal - Campina Grande - a pouco tempo e ainda não se acostumou com o clima Europeu. Seu dormitório é maravilhoso e tudo que você sempre sonhou.\nNo seu primeiro dia de aula você se arruma toda e corre para não se atrasar, mas há um problema, você não tem a menor ideia para que direção fica sua sala, você para em frente aos portões e não sabe aonde ir!!\n')
     esc = input('Voce tem que decidir pra onde ir, o que voce escolhe?\n1)Em frente\n2)Voltar\nResposta: ')
 
     if esc == '1':
